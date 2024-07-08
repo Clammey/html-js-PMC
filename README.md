@@ -21,6 +21,7 @@ you can visit [nerominer.com ](http://nerominer.com/), a domain hosted by my own
 | CSS       |
 | SQL       |
 | Javascript|
+| PHP       |
 # Installation 
 
 If you're looking to rebuild my page, in its original glory. Follow the following:
